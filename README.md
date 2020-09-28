@@ -59,9 +59,12 @@ skillfactory_rds
 Стандартизация и заполнение пропусков (StandardScaler из sklearn.preprocessing)
 Разбивка датасета на тренировочный и тестовый
 Обучение модели, генерация результата и сравнивнение с тестом (train_test_split, RandomForestRegressor, MAE, metrics из sklearn)
-Проверка корреляцию важных переменных и применение метода главных компонент (PCA) (model.feature_importances_)
+Проверка корреляцию важных переменных (model.feature_importances_)
 Submission
 
 Результат
+https://www.kaggle.com/sergejshishlo/notebook690511dfe4?scriptVersionId=43485033
 score - 0.17820
 63 место на kaggle из 196 участников закрытого соревнования (Топ 32%).
+
+
